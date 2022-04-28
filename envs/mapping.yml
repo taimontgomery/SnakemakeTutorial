@@ -1,0 +1,7 @@
+# This is software information for the workflow
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bowtie2=2.4.5
+  - samtools=1.9
